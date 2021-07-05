@@ -1,19 +1,3 @@
-// =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-// Class notes
-// =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-// PHP Storm tem terminal, Alt + F12
-// Preciso EXPORTAR as classes
-// Preciso IMPORTAR as classes no arquivo principal
-// -> import {ContaCorrente} from "./ContaCorrente.js";
-// Preciso criar o package JSON com
-// -> npm init
-// Preciso colocar no package.json
-// "type": "module"
-// Tipos primitivos são copiados antes de serem passados como parâmetros, Objetos não!
-// =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-// =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-
-
 import {Cliente} from "./Cliente.js";
 import {ContaCorrente} from "./ContaCorrente.js";
 
