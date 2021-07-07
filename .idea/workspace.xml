@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="301550da-7f1a-4a76-a0ee-a05e3b6582ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Conta/Conta.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conta/ContaCorrente.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conta/ContaPoupanca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conta/ContaSalario.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcionario/Diretor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcionario/Funcionario.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcionario/Gerente.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SistemaAutenticacao.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a77b15c0d64cf6111e025645e562faf8ccabb9d7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a77b15c0d64cf6111e025645e562faf8ccabb9d7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cliente.js" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContaCorrente.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +49,11 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lbaci\PhpstormProjects\react-study\Conta" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,7 +65,9 @@
       <workItem from="1625046620781" duration="1419000" />
       <workItem from="1625132755633" duration="1638000" />
       <workItem from="1625171973575" duration="1696000" />
-      <workItem from="1625475297988" duration="2851000" />
+      <workItem from="1625475297988" duration="3540000" />
+      <workItem from="1625565921907" duration="4658000" />
+      <workItem from="1625652251948" duration="4603000" />
     </task>
     <servers />
   </component>
@@ -68,5 +87,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/1920.86.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1625477768495" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1625566796267">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/1920.86.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1625566796267" />
   </component>
 </project>
